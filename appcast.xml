@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CoRegCheck</title>
+        <item>
+            <title>20932527c4b5bebde42641b0d1516b93594cf3bb</title>
+            <pubDate>Di., 22 Dez. 2020 09:02:29 +0100</pubDate>
+            <description><![CDATA[<h3>CoRegCheck 1.0</h3>
+<hr>
+<p>A Cocoa UI for NSRegularExpression</p>
+]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/embeddedc/CoRegCheckDist/releases/download/1.0/CoRegCheck.zip" sparkle:version="40" sparkle:shortVersionString="20932527c4b5bebde42641b0d1516b93594cf3bb" length="6201275" type="application/octet-stream" sparkle:edSignature="KTHRNyDe9CcP/Vt31dLVsYBIVBdyMHDRQmsIXgs1OrARpfJS9vVYDfK1Qvkh5gDj9D8dU31lrLVoT14lLbzrCg=="/>
+        </item>
+    </channel>
+</rss>
