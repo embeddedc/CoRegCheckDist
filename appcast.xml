@@ -10,7 +10,7 @@
 <p>A Cocoa UI for NSRegularExpression</p>
 ]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/embeddedc/CoRegCheckDist/releases/download/1.0/CoRegCheck.zip" sparkle:version="40" sparkle:shortVersionString="20932527c4b5bebde42641b0d1516b93594cf3bb" length="6201275" type="application/octet-stream" sparkle:edSignature="KTHRNyDe9CcP/Vt31dLVsYBIVBdyMHDRQmsIXgs1OrARpfJS9vVYDfK1Qvkh5gDj9D8dU31lrLVoT14lLbzrCg=="/>
+            <enclosure url="https://github.com/embeddedc/CoRegCheckDist/releases/download/1.0/CoRegCheck.zip" sparkle:version="40" sparkle:shortVersionString="1.0" length="6199830" type="application/octet-stream" sparkle:edSignature="Rt0ldxYs4rfxCT/5uiDCGs1zHSApEvJuNVsDuaT/W3ET32f06u2jYqfF765z5F1fT/NS7nat1bl6MbMFnwzDCA=="/>
         </item>
     </channel>
 </rss>
